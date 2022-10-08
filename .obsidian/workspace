@@ -17,19 +17,6 @@
         }
       },
       {
-        "id": "433d0a6238893265",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Marriage.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
         "id": "fd4b1763acfe0f5e",
         "type": "leaf",
         "state": {
@@ -166,15 +153,15 @@
   },
   "active": "fd4b1763acfe0f5e",
   "lastOpenFiles": [
-    "The Bible (NET)/Proverbs/Prov 4.md",
+    "The Bible (NET)/Judges/Judg 21.md",
     "Parenting.md",
-    "The Great Commission Family.md",
     "Marriage.md",
+    "The Bible (NET)/Joshua/Josh 24.md",
+    "The Bible (NET)/Ephesians/Ephes 6.md",
+    "The Bible (NET)/Proverbs/Prov 9.md",
+    "The Great Commission Family.md",
+    "The Bible (NET)/Proverbs/Prov 4.md",
     "Godly Family.md",
-    "The Bible (NET)/Genesis/Gen 3.md",
-    "The Bible (NET)/Genesis/Gen 1.md",
-    "The Bible (NET)/Matthew/Matt 28.md",
-    "Dailies/2022-10-08.md",
-    "Genesis Studies.md"
+    "The Bible (NET)/Genesis/Gen 3.md"
   ]
 }
