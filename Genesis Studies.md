@@ -4,4 +4,6 @@
 
 [[Gen 8]] - God answered my prayer for insight once again!!!! Praise God! Here, in v.13, it was said that "Noah removed the covering from the ark and saw that the surface of the ground was dry." There was a thought in my mind that says 
 
-[[Gen 22#5]] and [[Gen 22#6]] - Abraham didn't allow the servant to take Isaac back to his homeland because he didn't want Isaac to leave the Promised Land - which God promised that He will give to Abraham and his decendants. This act is an act of faith. 
+[[Gen 22#5]] and [[Gen 22#6]] - Abraham didn't allow the servant to take Isaac back to his homeland because he didn't want Isaac to leave the Promised Land - which God promised that He will give to Abraham and his decendants. This act is an act of faith.
+
+[[Gen 46]] - We see that everytime a child of God offer sacrifices (worship), God responds. In this case, God gave huge comfort to Jacob and give him promises. Imagine going to a foreign land without God being with you!
