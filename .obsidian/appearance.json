@@ -1,0 +1,10 @@
+{
+  "theme": "obsidian",
+  "translucency": false,
+  "cssTheme": "Atom",
+  "baseFontSize": 21,
+  "enabledCssSnippets": [
+    "beautify-verse-embeds",
+    "beautify-verses"
+  ]
+}

@@ -1,0 +1,12 @@
+/* Embedding Bible verses */
+div.markdown-embed .markdown-preview-view h6 {
+  position: absolute;
+  left: 10px;
+  top: 10px;
+  margin: 0px;
+}
+
+.markdown-preview-view .markdown-embed-content p:first-child {
+  margin: 1px;
+  top: 10px;
+}

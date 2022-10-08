@@ -13,7 +13,7 @@ Keywords: simple harmonic motion, mass-spring system, Hooke's Law, simple pendul
 ### What a motion needs to be a SHM
 - At the equilibrium position, the speed reaches its maximum.
 - At maximum displacement (amplitude), the restoring force is greatest, and acceleration reaches maximum.
-- In SHM, the restoring force is proportional to displacement.
+- In SHM, [[The Restorative Force|the restoring force]] is proportional to displacement.
 
 ### SHM in a [[Mass-spring system]]
 ![[Pasted image 20220919092054.png]]

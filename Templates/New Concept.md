@@ -1,0 +1,6 @@
+# 
+---
+{{date}}
+Related notes:
+
+### #Definition

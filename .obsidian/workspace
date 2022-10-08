@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "123de31c5f03f20f",
+    "type": "split",
+    "children": [
+      {
+        "id": "70e309805dcd0a1c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Module 1 Homework.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "66bfe4e16d3ae060",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Transverse Wave.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "c01408a776810083",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Dailies/2022-10-07.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70112b13905ee7b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3dd1d198a20489d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8750f27c9691d37d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "701bcdbe989056ae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "complete yesterday's ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a62f58d7b8d64acd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.5
+  },
+  "right": {
+    "id": "c73277afd5713525",
+    "type": "split",
+    "children": [
+      {
+        "id": "afecfb5fca998761",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9bcb4aa0f039358a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dailies/2022-10-07.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ed45c8cc6cb7ea2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dailies/2022-10-07.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8f0d4b33bb5b328d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bfe941f71d9ac084",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dailies/2022-10-07.md"
+              }
+            }
+          },
+          {
+            "id": "7e53c6560b8b6dc7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c01408a776810083",
+  "lastOpenFiles": [
+    "School/Highschool Journey.md",
+    "School/Grade 10.md",
+    "Growing in Christ/Untitled.md",
+    "Dailies/2022-10-07.md",
+    "The Bible (NET)/1 Chronicles/1 Chron 1.md",
+    "Dailies/2022-10-06.md",
+    "2022-10-07.md",
+    "Longtitudinal Wave.md",
+    "Transverse Wave.md",
+    "Module 1 Homework.md"
+  ]
+}

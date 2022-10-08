@@ -1,0 +1,4 @@
+# Mark Studies
+#### Interesting notes
+- [[Mark 10]] could be a big idea about "commitment."
+- [[Mark 7]] - Jesus says “Let the children be fed first, because it isn’t right to take the children’s bread and throw it to the dogs.” He meant by no means that Jews are worth more than Gentiles. No! It's just the same as when the angel said: "This man will be like a wild donkey" about Ismael ([[Gen 12#12]]). What is important here is that: Jesus's mission is to bring salvation to Jews, first. Then from Jews, He walk alongside his apostles and people to spread this gospel, this AWESOME NEWS to the Gentiles. 

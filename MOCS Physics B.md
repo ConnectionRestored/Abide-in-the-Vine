@@ -11,4 +11,3 @@
 ###### Waves
 - [[7.3 Wave properties]]
 - [[7.4 What happens when two waves interact]]
-
