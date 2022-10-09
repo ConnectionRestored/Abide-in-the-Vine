@@ -28,6 +28,19 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "28b1f4827c07203c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Genesis Studies.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -92,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parenting.md",
+                "file": "Genesis Studies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Parenting.md",
+                "file": "Genesis Studies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Parenting.md"
+                "file": "Genesis Studies.md"
               }
             }
           },
@@ -151,17 +164,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fd4b1763acfe0f5e",
+  "active": "28b1f4827c07203c",
   "lastOpenFiles": [
-    "The Bible (NET)/Judges/Judg 21.md",
+    "Growing in Christ/Bible Studies.md",
     "Parenting.md",
+    "The Bible (NET)/Judges/Judg 21.md",
     "Marriage.md",
     "The Bible (NET)/Joshua/Josh 24.md",
     "The Bible (NET)/Ephesians/Ephes 6.md",
     "The Bible (NET)/Proverbs/Prov 9.md",
     "The Great Commission Family.md",
     "The Bible (NET)/Proverbs/Prov 4.md",
-    "Godly Family.md",
-    "The Bible (NET)/Genesis/Gen 3.md"
+    "Godly Family.md"
   ]
 }
