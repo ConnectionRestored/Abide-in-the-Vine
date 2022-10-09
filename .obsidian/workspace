@@ -4,38 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2564a5bc11792237",
+        "id": "af7931391200c780",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Great Commission Family.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "fd4b1763acfe0f5e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Parenting.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "28b1f4827c07203c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Genesis Studies.md",
+            "file": "2022-10-09 Bao Son Church Sermon.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -88,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5,
-    "collapsed": true
+    "width": 268.5
   },
   "right": {
     "id": "c73277afd5713525",
@@ -105,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Genesis Studies.md",
+                "file": "2022-10-09 Bao Son Church Sermon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Genesis Studies.md",
+                "file": "2022-10-09 Bao Son Church Sermon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Genesis Studies.md"
+                "file": "2022-10-09 Bao Son Church Sermon.md"
               }
             }
           },
@@ -164,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "28b1f4827c07203c",
+  "active": "af7931391200c780",
   "lastOpenFiles": [
-    "Growing in Christ/Bible Studies.md",
+    "Sermon Notes.md",
+    "2022-10-09 Bao Son Church Sermon.md",
+    "The Bible (NET)/Romans/Rom 7.md",
+    "Growing in Christ/Sermons MOCS.md",
+    "Dailies/2022-10-09.md",
+    "Genesis Studies.md",
     "Parenting.md",
-    "The Bible (NET)/Judges/Judg 21.md",
-    "Marriage.md",
-    "The Bible (NET)/Joshua/Josh 24.md",
-    "The Bible (NET)/Ephesians/Ephes 6.md",
-    "The Bible (NET)/Proverbs/Prov 9.md",
     "The Great Commission Family.md",
-    "The Bible (NET)/Proverbs/Prov 4.md",
-    "Godly Family.md"
+    "Growing in Christ/Bible Studies.md",
+    "The Bible (NET)/Judges/Judg 21.md"
   ]
 }
