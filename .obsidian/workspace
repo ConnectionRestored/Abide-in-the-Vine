@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "af7931391200c780",
+        "id": "d1e47d7b45828e08",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-10-09 Bao Son Church Sermon.md",
+            "file": "2022-10-09 Detech Sermon.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10-09 Bao Son Church Sermon.md",
+                "file": "2022-10-09 Detech Sermon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-10-09 Bao Son Church Sermon.md",
+                "file": "2022-10-09 Detech Sermon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10-09 Bao Son Church Sermon.md"
+                "file": "2022-10-09 Detech Sermon.md"
               }
             }
           },
@@ -137,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "af7931391200c780",
+  "active": "d1e47d7b45828e08",
   "lastOpenFiles": [
     "Sermon Notes.md",
-    "2022-10-09 Bao Son Church Sermon.md",
-    "The Bible (NET)/Romans/Rom 7.md",
+    "2022-10-09 Detech Sermon.md",
     "Growing in Christ/Sermons MOCS.md",
+    "Growing in Christ/Bible Study Resources MOC.md",
+    "2022-10-09 Bao Son Church Sermon.md",
     "Dailies/2022-10-09.md",
+    "The Bible (NET)/Romans/Rom 7.md",
     "Genesis Studies.md",
     "Parenting.md",
-    "The Great Commission Family.md",
-    "Growing in Christ/Bible Studies.md",
-    "The Bible (NET)/Judges/Judg 21.md"
+    "The Great Commission Family.md"
   ]
 }
