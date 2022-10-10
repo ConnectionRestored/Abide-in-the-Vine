@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d1e47d7b45828e08",
+        "id": "2394e4de560a0a83",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2022-10-09 Detech Sermon.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -41,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "complete yesterday's ",
+                "query": "pastor hung",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -62,7 +57,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 268.5,
+    "collapsed": true
   },
   "right": {
     "id": "c73277afd5713525",
@@ -78,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10-09 Detech Sermon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-10-09 Detech Sermon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,9 +111,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2022-10-09 Detech Sermon.md"
-              }
+              "state": {}
             }
           },
           {
@@ -137,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d1e47d7b45828e08",
+  "active": "2394e4de560a0a83",
   "lastOpenFiles": [
-    "Sermon Notes.md",
-    "2022-10-09 Detech Sermon.md",
-    "Growing in Christ/Sermons MOCS.md",
-    "Growing in Christ/Bible Study Resources MOC.md",
-    "2022-10-09 Bao Son Church Sermon.md",
+    "1. A bird-eye's view of the Bible.md",
     "Dailies/2022-10-09.md",
-    "The Bible (NET)/Romans/Rom 7.md",
-    "Genesis Studies.md",
-    "Parenting.md",
-    "The Great Commission Family.md"
+    "Prophetical Books.md",
+    "Instructional Books of the Bible.md",
+    "Historical Books of the Bible.md",
+    "Foundational Books of the Bible.md",
+    "Scripture (WEB)/01 - Genesis/Gen-01.md",
+    "Scripture (WEB)/01 - Genesis/Gen-03.md",
+    "Scripture (WEB)/01 - Genesis/Gen-02.md",
+    "Growing in Christ/Bible Studies.md"
   ]
 }

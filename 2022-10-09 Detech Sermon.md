@@ -1,5 +1,8 @@
-# 2022-10-09 Detech Sermon
+# How things ought to be done in ministry
 - Passage: [[1 Pet 5#1|1 Peter 5:1-8]]
+- Title: 
+- Date: [[2022-10-09]]
+- Preacher: [[Pastor Nguyen Dinh Hung]]
 
 > [!Bible]  [1Pet 5:1-8 - NKJV](https://bible-api-bff.bai.uno/bolls-life/NKJV/60/5/)
 > The elders who are among you I exhort, I who am a fellow elder and a witness of the sufferings of Christ, and also a partaker of the glory that will be revealed:Shepherd the flock of God which is among you, serving as overseers, not by compulsion but willingly, not for dishonest gain but eagerly;nor as being lords over those entrusted to you, but being examples to the flock;and when the Chief Shepherd appears, you will receive the crown of glory that does not fade away.Likewise you younger people, submit yourselves to <i>your</i> elders. Yes, all of <i>you</i> be submissive to one another, and be clothed with humility, for  “God resists the proud, But gives grace to the humble.”Therefore humble yourselves under the mighty hand of God, that He may exalt you in due time,casting all your care upon Him, for He cares for you.Be sober, be vigilant; because your adversary the devil walks about like a roaring lion, seeking whom he may devour.

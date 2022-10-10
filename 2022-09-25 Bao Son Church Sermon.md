@@ -1,6 +1,6 @@
 # 
 Location: [[Bao Son Church]]
-Preacher: [[Pastor Hung]]
+Preacher: [[Pastor Nguyen Dinh Hung]]
 Passage: [[Ps 139]]
 Sermon type: [[Big Idea Preaching]]
 

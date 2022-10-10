@@ -1,0 +1,3 @@
+# Prophetical Books
+## General application of Prophetical Books
+The prophets themselves were more like *teachers of the time* than *seers looking into the future,* and their lives are always connected with crisis moments. In our lives, we all had or will have crisis moments, and it is during this time that the can find the strength, encouragement, and guidance in the prophetic and teaching words found in these books. Thank God for we have Him and can hold onto Him during these moments!
