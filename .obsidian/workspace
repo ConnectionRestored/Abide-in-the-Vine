@@ -17,12 +17,12 @@
         }
       },
       {
-        "id": "a91944c6ea2a3323",
+        "id": "f8c831b3c66d1c0b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Persuasive literature.md",
+            "file": "Persuasion by Hollywood Discussion.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -30,12 +30,12 @@
         }
       },
       {
-        "id": "48b556d8351b98c6",
+        "id": "bee25f762d7d93f4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Holiness and Mercy.md",
+            "file": "Analyzing representations (language arts).md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Holiness and Mercy.md",
+                "file": "Persuasion by Hollywood Discussion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Holiness and Mercy.md",
+                "file": "Persuasion by Hollywood Discussion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Holiness and Mercy.md"
+                "file": "Persuasion by Hollywood Discussion.md"
               }
             }
           },
@@ -164,17 +164,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "48b556d8351b98c6",
+  "active": "f8c831b3c66d1c0b",
   "lastOpenFiles": [
-    "Persuasive literature.md",
+    "MOCS Language Arts 10B.md",
+    "Analyzing representations (language arts).md",
+    "new note.md",
+    "Dailies/2022-10-09.md",
+    "Persuasive literature (language arts).md",
+    "Holiness and Mercy.md",
     "Dailies/2022-10-10.md",
     "Persuasive writing.md",
-    "MOCS Language Arts 10B.md",
     "Argument (language arts).md",
-    "Memoirs (language arts).md",
-    "Main idea.md",
-    "Untitled.md",
-    "1. A bird-eye's view of the Bible.md",
-    "Dailies/2022-10-09.md"
+    "Memoirs (language arts).md"
   ]
 }
