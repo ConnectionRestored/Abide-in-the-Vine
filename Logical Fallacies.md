@@ -1,4 +1,4 @@
-# Fallacies
+Logical Fallacies
 ---
 2022-09-27
 Related notes: [[Argument (language arts)]] [[MOCS Language Arts 10B]]
@@ -6,6 +6,7 @@ Related notes: [[Argument (language arts)]] [[MOCS Language Arts 10B]]
 ### #Definition
 - Fallacies are statements based on faulty reasoning
 - A fallacy may appear reasonable at first glance, but a closer look reveals a flaw in logic that makes the statement false.
+
 ### Different types of Fallacies
 | Name                      | Description                                                                                                                      | Example                                                                                                                                                          |
 |---------------------------|----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -17,4 +18,3 @@ Related notes: [[Argument (language arts)]] [[MOCS Language Arts 10B]]
 | Slippery Slope            | uses the idea of a chain reaction, implying that if one thing happens, then another, usually horrible thing will also happen     | Example: We must have harsher laws against speeding. Otherwise, people will start treating our highways like the Indy 500 track, and thousands will get killed!  |
 | Ad Hominem                | focuses on a person, rather than on evidence                                                                                     | Example: Of course Ms. Liu must be guilty of the charge of neglecting that poor poodle. She is a cruel person who hates animals.                                 |
 | False Dilemma             | implies that there are a limited number of possible explanations or solutions when, in reality, there are many more              | Example: Either we must continue to fight this war, or we must surrender. Surrender is not an acceptable option, so we must fight to the death.                  |
-

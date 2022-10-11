@@ -18,7 +18,7 @@ Related notes: [[MOCS Language Arts 10B]] [[Argument (language arts)]]
 
 ### Evaluating oral arguments
 1. Who is the speaker and what is his purpose for making this argument?
-2. Spotting [[Fallacies|fallacious reasoning]]. (Checking if the evidences and claim holds together)
+2. Spotting [[Logical Fallacies|fallacious reasoning]]. (Checking if the evidences and claim holds together)
 3. Recheck evidences with [[Oral Arguments (language arts)#Realiable evidences characteristics]]
 
 

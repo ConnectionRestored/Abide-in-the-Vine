@@ -1,7 +1,11 @@
 # Persuasion by Hollywood Discussion
+In "Racism in America: Small Town 1950s Case Study," Mr. Myers and his family, who are colored Americans, have moved to Levittown, an all-white community. This split the community into two camps: those who opposed Myers' arrival and those who supported them. This documentary film investigates both viewpoints and explains why racist attitudes toward the Myers are unjustified. The film wants its audience to understand that many currently all-white communities will see the arrival of colored families, and that when this happens, viewers should stand up to racism in their communities. This documentary film relied heavily on the commentary given between interviews to achieve the desired effect, which disproves racist notions held by some Levittown residents. An interviewee, for example, claimed that when the Myers move into town, the property value will decrease, citing her experience in Washington, DC as evidence. However, at the end of the film, the commentator cites research findings proving the opposite. In another case, the commentary spotlights the heart of racist viewpoints: the loss of a basis for one's sense of superiority, because a colored family can own what a white family can as well. Overall, this short film served its purpose, garnering nearly 500,000 views on YouTube and continuing to have an impact on viewers six decades later.
+
 Plot summary: Mr. Myers and his family - a colored American - has moved in to Levittown, an once all-white community. This separated the community into 2 groups: the ones that are against the Myers and the ones for them. This documentary film explores both viewpoint, and provide reasons why the racist thoughts against the Myers are false.
 
 Persuasion: Many communities will be separated into 2 groups - one supporting and one against the arrival of colored people and that the viewers should stand-up against racism in their communities.
 
 Main strategy: The commentary -- which disproves racist notions that some members of Levittown has -- is the main strategy the director uses to persuade his/her audiences.
-	- A women
+	- A woman claimed that when the Myers move into town, the property value will go down, citing her experience in Washington DC as evidence for this. But, later at the end of the film, the commentator cites foundings from studies that prove that the opposite is true.
+	- The commentary points out the heart behind the racist viewpoints: the lost of basis for ones sense of superiority, since a colored family can buy what the whites can, too.
+

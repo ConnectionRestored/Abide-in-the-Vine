@@ -15,4 +15,4 @@ Related notes:
 	- 2. Verify the logical correctness of the author's reasons.
 	- 3. Verify the evidences
 ### Fallacies
-[[Fallacies | There are many different type of fallacies, and one could easier fall into them.]]
+[[Logical Fallacies | There are many different type of fallacies, and one could easier fall into them.]]
