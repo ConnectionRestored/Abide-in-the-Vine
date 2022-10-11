@@ -80,23 +80,143 @@ We can observe that because $P$ is the numerator, it has a positive correlation 
 The last way we can lower the intensity of sound from a speaker is to turn the volume down. When set the speaker at a lower volume, the amplitude of sound waves the speaker produces will also be lower, meaning that the wave transfer less energy and thus are less intense.
 
 ### 7. Describe longitudinal versus transverse waves and give an example of each.
-
-
+Longitudinal Waves are mechanical waves in which the particles moves parallel to the wave direction. Sound waves or p-waves of earthquakes are examples of longitudinal waves. Transverse Waves are also mechanical waves, but instead of moving parallel to the wave direction, the particles moves perpendicular to it. Water waves or s-waves of earthquakes are examples of tranverse waves.
 
 ## Practice
 ### 8. A spring of spring constant 4 N/m is stretched 0.5 meters.  How strong is the restoring force?
+From the problem, we have:
+- $k = 4 \frac{N}{m}$ 
+- $\overrightarrow{x} = 0.5m$
+- $\overrightarrow{F} = ?N$
+
+Using Hooke's Law, we have:
+$\overrightarrow{F} = -k\overrightarrow{x}$ 
+$\rightarrow \overrightarrow{F} = -4\frac{N}{m}*0.5m$
+$\rightarrow \overrightarrow{F} = −2N$ 
+
+Thus, the restoring force is $-2N$ strong.
+
 ### 9. Which variable affects the period of a pendulum undergoing simple harmonic motion?
+Because we can calculate the period of a pendulum undergoing simple harmonic motion using the following formula, we can see that the the length of the pendulum of the acceleration of gravity affects a the period of a pendulum undergoing SHM. 
+$$T_{\text{pendulum}} = 2\pi \sqrt{\frac{L}{g}}$$
+
 ### 10. A wave of speed 5000 m/s  is traveling with a wavelength of 100 meters.  Calculate the period and frequency.
+From the problem, we have:
+- $v = 5000 \frac{m}{s}$ 
+- $\lambda = 100m$
+- $T = ? \frac{\text{second}}{\text{cycle}}$
+- $f = ? \frac{\text{cycle}}{\text{second}}$
+
+We can calculate the period of this wave with the formula below:
+$T = \frac{\lambda}{v} = \frac{100m}{5000\frac{m}{s}} = 0.02s$
+
+We can also calculate the frequency of this wave with the formula below:
+$f = \frac{1}{T} = \frac{1}{0.02s} = 50$
+
+Thus, this wave has a period of $0.02s$ and a frequency of 50.
+
 ### 11. A spring of constant 10 N/m is oscillating a mass of 1kg.  What is the period of oscillation?
+From the problem, we have:
+- $k = 10 \frac{N}{m}$ 
+- $m = 1kg$
+- $T = ?s$
+
+We can calculate the period of oscillation using the formula below:
+$T = 2 \pi \sqrt{\frac{m}{k}}$
+$\rightarrow T = 2 \pi \sqrt{\frac{1kg}{10\frac{N}{m}}}$
+$\rightarrow T = 2 \pi \sqrt{0.1s^2}$
+$\rightarrow T \approx 2 \pi * 0.316s$
+$\rightarrow T \approx 1.985s$
+
+Thus, the period of oscillation is $1.985s$. 
+
 ### 12. A pendulum on the earth has a period of 2 seconds.  What is the length of the pendulum?
+**Given:**
+- $g = 9.807 \frac{m}{s^2}$ 
+- $T = 2s$
+
+**Want:**
+- $L = ?m$
+
+**Equation:**
+$T = 2\pi \sqrt{\frac{L}{g}}$
+
+**Algebra:**
+$T = 2\pi \sqrt{\frac{L}{g}} \xrightarrow{\text{ to solve for L}} T^2 = (2\pi \sqrt{\frac{L}{g}})^2 \rightarrow T^2 = 4\pi^2 * \frac{L}{g}$
+$\rightarrow T^2*g = 4\pi^2*L \rightarrow L = \frac{T^2*g}{4\pi^2}$
+
+**Solve:**
+$L = \frac{T^2*g}{4\pi^2} = \frac{(2s)^2*9.807 \frac{m}{s^2}}{4\pi^2} = \frac{4s^2*9.807 \frac{m}{s^2}}{4\pi^2} = \frac{39.228m}{4\pi^2} \approx 0.9936m$
+
+Thus, the length of the pendulum is $0.9936m$
+
 ### 13. How do wavelengths of sound change when you move towards and away from an object emitting sound.
+According to the Doppler Effect, as I move toward an object emitting sound, each consecutive sound waves is produced increasingly nearer to me, meaning that the soundwaves will arrive at lower wavelengths. As I move away from the object emitting sound, the opposite is true: each consecutive sound waves is produced increasingly further from me, which means that the soundwaves will arrive at higher wavelengths.
+
 ### 14. Victor is standing next to a 100 W speaker at a distance of 0.5 meters.  What is the intensity of sound reaching his ear?
+**Given:**
+- $P = 100W$
+- $r = 0.5m$
+
+**Want:**
+- $I = ?\frac{W}{m^2}$
+
+**Formula:**
+$I = \frac{P}{4\pi r^2}$
+
+**Solve:**
+$I = \frac{P}{4\pi r^2} = \frac{100W}{4\pi *(0.5m)^2} \frac{100W}{\pi m^2} = 31.8\frac{W}{m^2}$
+
+Thus, a sound with an intensity of $31.8\frac{W}{m^2}$ are reaching Victor's ear.
+
 ### 15. A 3rd harmonic is being produced in a tube that is open at both ends.  The tube is 3 meters long and the speed of sound is 340 m/s.  What frequency will an observer hear?
+**Given:**
+- $n = 3$ 
+- $v = 340 \frac{m}{s}$
+- $L = 3m$
+
+**Want:**
+- $f_n = ?Hz$
+
+**Formula:**
+$f_n = n*\frac{v}{2L}$
+
+**Solve:**
+$f_n = n*\frac{v}{2L}$
+$\rightarrow f_3 = 3*\frac{340\frac{m}{s}}{2*3m}$
+$\rightarrow f_3 \approx 3*56.6666Hz$
+$\rightarrow f_3 \approx 170Hz$
+
+Thus, an observer will hear a frequency of approximately $170Hz$. 
+
 ### 16. A fourth harmonic is desired by a conductor of musicians.  What type of instrument could and could not create such a harmonic. You do not need to answer in terms of the instrument name, only whether it is open or closed ended.
+Because the conductor wants an even-numbered harmonic, only open ended instruments can be used to create it, for closed ended instruments can only create odd-numbered harmonics.
 
 ## Application
-### A group of physics students set a tuning fork of 500 Hz just above a big cooking pot.  The tuning for is struck and continues to ring throughout the experiment.  
+### A group of physics students set a tuning fork of 500 Hz just above a big cooking pot.  The tuning fork is struck and continues to ring throughout the experiment.
 #### 17. The students pour water into the pot until they hear the resonance of the fundamental mode.  Draw the fundamental mode created.
+- The fundamental mode created is the first harmonic.
+![[Pasted image 20221011110430.png|400]]
 #### 18. If the cooking pot is 0.2 meters tall, how long is the wavelength of the resonance created?
+**Given:**
+- $n = 1$
+- $f_1 = 500Hz$
+- $L = 0.2m$
+
+**Want:**
+$\lambda_1 = ?$
+
+**Formula:**
+$\lambda_n = \frac{4L}{n}$
+
+**Solve:**
+$\lambda_n = \frac{4L}{n}$
+$\rightarrow \lambda_1 = \frac{4*0.2m}{1}$
+$\rightarrow \lambda_1 = 0.8m$
+
+Thus, the wavelength of the resonance created is $0.8m$ long.
+
 #### 19. What is an estimate for the speed of sound in this situation?
+At $20^\circ C$ 
+
 #### 20. You may discover that the speed of sound seems a bit off.  Write down some ideas on why that is.

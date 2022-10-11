@@ -6,7 +6,7 @@ Related notes: [[resonance (physics)]] [[forced vibration (physics)]] [[MOCS Phy
 ### #Definition
 - Harmonics are intergers of the [[fundamental frequency (physics)]].
 
-### Different types of harmonics
+### Different types of hxarmonics
 #### Harmonics in strings (or [[Standing waves (physics)]] in strings)
 ![[Pasted image 20221006143016.png]]
 
@@ -36,8 +36,11 @@ When standing waves are produced in a open tube, the relationship between length
 
 ### Calculating Harmonics
 ##### #formula: Harmonics on a fixed string or open tube
+
+**Calculating the [[frequencies (as in physics)|frequency]] of the harmonic**
+
 $$f_n = n*f_1 = n*\frac{v}{2L}$$
-OR:
+**Calculating the wavelength of the harmonic**
 $$\lambda_n = \frac{\lambda_1}{n} = \frac{2L}{n}$$
 
 - $n$ is the harmonic number
