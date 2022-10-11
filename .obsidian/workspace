@@ -4,12 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "f776918cfbb5ff7d",
+        "id": "4a1e7fde610c3985",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Module 1 Homework.md",
+            "file": "My Conversion (reflective essay).md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "22f2567f41a00057",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Reflective writing (language arts).md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -79,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module 1 Homework.md",
+                "file": "My Conversion (reflective essay).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module 1 Homework.md",
+                "file": "My Conversion (reflective essay).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module 1 Homework.md"
+                "file": "My Conversion (reflective essay).md"
               }
             }
           },
@@ -138,17 +151,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f776918cfbb5ff7d",
+  "active": "4a1e7fde610c3985",
   "lastOpenFiles": [
-    "harmonics (physics).md",
-    "Module 1 Homework.md",
-    "frequencies (as in physics).md",
-    "Sound waves (physics).md",
-    "Wave speed.md",
-    "Speed of sound (physics).md",
-    "Sound intensity (physics).md",
-    "Calculating the period of SHM.md",
-    "period (as in physics).md",
-    "7.1 What is simple harmonic motion - What is Hooke's Law.md"
+    "Reflective writing (language arts).md",
+    "My Conversion (reflective essay).md",
+    "Jesus's Crucifiction.md",
+    "My Conversion.md",
+    "persuasive techniques.md",
+    "Evaluating persuasions.md",
+    "Persuasive literature (language arts).md",
+    "Persuasive writing.md",
+    "Logical Fallacies.md",
+    "Analyzing persuasions.md"
   ]
 }

@@ -1,2 +1,2 @@
-# Persuasive writing
+# Persuasion
 [[Persuasive literature (language arts)]]

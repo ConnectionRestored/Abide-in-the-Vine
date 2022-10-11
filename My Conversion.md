@@ -5,6 +5,7 @@ Date: [[2022-10-02]]
 > [!INFO] Lời chứng
 > Đây là lời chứng của Thiên Trung - người được Chúa cứu một cách lạ kỳ khỏi phim khiêu dâm kinh khủng.
 
+[[My Conversion (reflective essay)]]
 ### Quá khứ
 Vào khi học lớp 3 con đã bị giới thiệu đến phim khiêu dâm. Thật kinh khủng. Con có nhớ rằng con lúc đầu xem trên youtube, rồi có khi những trang web khác. Có lúc, con còn xem với bạn Khánh khi ở nhà bạn nữa.
 

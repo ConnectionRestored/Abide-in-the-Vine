@@ -17,7 +17,6 @@ Related notes: [[Persuasive writing]]
 ### Differences between the two
 -  Poems are less direct than prose in the way they try to persuade readers, opting to use plot, character development,... rather than telling the reader rightaway what the author's viewpoint on a specific topic is.
 
-## Analyze
-- **Step 1: Identify the persuasive message (claim).**
-- **Step 2: Identify literary elements that help expresses the persuasive message.**
-- **Step 3: Explain how the literary elements work together to express a work's persuasive message.**
+[[Analyzing persuasions]]
+
+[[Evaluating persuasions]]
