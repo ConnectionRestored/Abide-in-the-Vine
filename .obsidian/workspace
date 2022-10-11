@@ -15,32 +15,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "df5a9285e10443f3",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Speed of sound (physics).md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "6dbf5843a0c8c584",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "fundamental frequency (physics).md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -67,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fundamental mode",
+                "query": "mass spring",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -166,15 +140,15 @@
   },
   "active": "f776918cfbb5ff7d",
   "lastOpenFiles": [
-    "Speed of sound (physics).md",
-    "Module 1 Homework.md",
-    "Sound waves (physics).md",
     "harmonics (physics).md",
-    "fundamental frequency (physics).md",
+    "Module 1 Homework.md",
     "frequencies (as in physics).md",
+    "Sound waves (physics).md",
+    "Wave speed.md",
+    "Speed of sound (physics).md",
     "Sound intensity (physics).md",
-    "Doppler Effect (physics).md",
-    "Sound Waves Online Lab.md",
-    "Physics B Labs.md"
+    "Calculating the period of SHM.md",
+    "period (as in physics).md",
+    "7.1 What is simple harmonic motion - What is Hooke's Law.md"
   ]
 }
