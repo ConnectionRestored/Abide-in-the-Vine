@@ -5,7 +5,7 @@ Related notes: [[resonance (physics)]] [[forced vibration (physics)]] [[MOCS Phy
 
 ### #Definition
 - Harmonics are intergers of the [[fundamental frequency (physics)]].
- q
+
 ### Different types of harmonics
 #### Harmonics in strings (or [[Standing waves (physics)]] in strings)
 ![[Pasted image 20221006143016.png]]
