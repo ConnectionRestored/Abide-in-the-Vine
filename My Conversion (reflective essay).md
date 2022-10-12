@@ -8,13 +8,13 @@ Day by day, I kept searching up the same keywords while disguising myself as a f
 
 "Yea, have a good time!"
 
-I says to my parent as they walk out and I locked the door, trying to hide the excitement and eagerness that submerge me: I would be home-alone, with no one to peek in as I used the home television to watch porn. Another time, I got my hands on an account to this site that let you interact with the content shown. In short, I was addicted.
+I says to my parent as they walk out and I locked the door, trying to hide the excitement and eagerness that submerge me: I would be home-alone, with no one to peek in as I used the home television to watch porn. Another time, I got my hands on an account to this site that let you interact with the content shown. In short, I was addicted, and there was no escape.
 
-But then, a morning came. It started like any normal morning: I woke up and go to my room have some exercises. 
+But then, a morning came. It started like any normal morning: I woke up and go to my room to have some exercises. 
 
 "Finally, that's done."
 
-I said as I gasped, sweat falls from my brow. It was in this moment of celebration that an urge to look at porn arose, and I yielded to it. If there was a perfect time to do this, it was now: mom's cooking breakfast, dad's working and brother's sleeping. Locking door, igcognito mode, tap, tap, enter. A few moment of captivation, and then dread. I saw a cross. What? A rugged cross, standing firmly on a gloaming grayish background. There are no other words to describe the scene: "The sun stopped shining." This is where Jesus, the one whom I learned so much about in religion, died here for my sins. I don't remember precisely how the cross looked, but in history, that cross was blood-soaked, with the blood of an sinless man, dying for every sinful human.
+I said as I gasped, with sweat falling from my brow. It was in this moment of celebration that an urge to look at porn arose, and I yielded to it. If there was a perfect time to do this, it was now: mom's cooking breakfast, dad's working and brother's sleeping. Locking the door, turning on incognito mode, tap, tap, enter. A few moment of captivation followed, and then dread. I saw a cross. What? A rugged cross, standing firmly on a gloaming grayish background. There are no other words to describe the scene: "The sun stopped shining." This is where Jesus, the one whom I learned so much about in religion, died here for my sins. I don't remember precisely how the cross looked, but in history, that cross was blood-soaked, with the blood of an sinless man, dying for every sinful human.
 
 That's when God touched and transformed my heart. Shocked, I immediately closed the browser window. It was not an attempt to hide my sin, but in an attempt to cut it out of my life. After that moment, I now hate the thing that once enthralled me. That's was the last time I ever looked at pornography, and I will not ever again.
 

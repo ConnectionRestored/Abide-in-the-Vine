@@ -4,29 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4a1e7fde610c3985",
+        "id": "f5efb6674b6e5edc",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "My Conversion (reflective essay).md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "22f2567f41a00057",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Reflective writing (language arts).md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -92,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Conversion (reflective essay).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Conversion (reflective essay).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,9 +111,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "My Conversion (reflective essay).md"
-              }
+              "state": {}
             }
           },
           {
@@ -151,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4a1e7fde610c3985",
+  "active": "f5efb6674b6e5edc",
   "lastOpenFiles": [
+    "Growing in Christ/Devotions at Word of Life Academy.md",
+    "2022-10-14 Concern.md",
+    "Dailies/2022-10-11.md",
     "Reflective writing (language arts).md",
     "My Conversion (reflective essay).md",
     "Jesus's Crucifiction.md",
     "My Conversion.md",
     "persuasive techniques.md",
     "Evaluating persuasions.md",
-    "Persuasive literature (language arts).md",
-    "Persuasive writing.md",
-    "Logical Fallacies.md",
-    "Analyzing persuasions.md"
+    "Persuasive literature (language arts).md"
   ]
 }
