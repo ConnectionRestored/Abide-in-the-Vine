@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Reflective writing (language arts).md",
+            "file": "2022-10-14 Concern.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Conversion (reflective essay).md",
+                "file": "2022-10-14 Concern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Conversion (reflective essay).md",
+                "file": "2022-10-14 Concern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Conversion (reflective essay).md"
+                "file": "2022-10-14 Concern.md"
               }
             }
           },
@@ -150,17 +150,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ce2c4b34bda6b51d",
+  "active": "49d40b423aac57ac",
   "lastOpenFiles": [
-    "Reflective writing (language arts).md",
     "My Conversion (reflective essay).md",
+    "2022-10-14 Concern.md",
+    "Growing in Christ/Devotions at Word of Life Academy.md",
+    "Reflective writing (language arts).md",
+    "Dailies/2022-10-12.md",
     "Standing waves (physics).md",
     "harmonics (physics).md",
     "Sound waves (physics).md",
     "Hearing ranges (physics).md",
-    "Speed of sound (physics).md",
-    "Wave speed.md",
-    "Calculating the period of SHM.md",
-    "Waves (as in physics).md"
+    "Speed of sound (physics).md"
   ]
 }
