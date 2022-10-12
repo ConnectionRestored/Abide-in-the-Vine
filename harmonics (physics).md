@@ -18,8 +18,13 @@ Related notes: [[resonance (physics)]] [[forced vibration (physics)]] [[MOCS Phy
 - 2nd harmonic (2nd wave): $\lambda = L$
 - 3rd harmonic (3rd wave): $\lambda = \frac{2}{3} L$
 
+
+> [!warning] What is a closed tube?
+> A closed tube is a pipe that is closed at one or both ends.
+
 #### Harmonics in an open tube
 ![[Pasted image 20221006144309.png]]
+
 When standing waves are produced in a open tube, the relationship between length and frequency remains the same as it is when harmonics are produced in strings.
 
 - The fundamental frequency (1st wave): $\lambda = 2L$
@@ -28,6 +33,7 @@ When standing waves are produced in a open tube, the relationship between length
 
 #### Harmonics in an closed tube
 ![[Pasted image 20221006144309.png]]
+
 **Note:** only odd harmonics are produced by tubes with closed ends
 
 - The fundamental frequency (1st wave): $\lambda = 4L$ 

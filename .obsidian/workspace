@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f5efb6674b6e5edc",
+        "id": "27450cd606dddb3d",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Calculating the period of SHM.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -74,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Calculating the period of SHM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Calculating the period of SHM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Calculating the period of SHM.md"
+              }
             }
           },
           {
@@ -129,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f5efb6674b6e5edc",
+  "active": "27450cd606dddb3d",
   "lastOpenFiles": [
-    "Growing in Christ/Devotions at Word of Life Academy.md",
-    "2022-10-14 Concern.md",
-    "Dailies/2022-10-11.md",
-    "Reflective writing (language arts).md",
-    "My Conversion (reflective essay).md",
-    "Jesus's Crucifiction.md",
-    "My Conversion.md",
-    "persuasive techniques.md",
-    "Evaluating persuasions.md",
-    "Persuasive literature (language arts).md"
+    "Standing waves (physics).md",
+    "harmonics (physics).md",
+    "sound quality (physics).md",
+    "fundamental frequency (physics).md",
+    "Wave interference.md",
+    "amplitude (as in physics).md",
+    "Sound waves (physics).md",
+    "Wave speed.md",
+    "Speed of sound (physics).md",
+    "7.1 What is simple harmonic motion - What is Hooke's Law.md"
   ]
 }

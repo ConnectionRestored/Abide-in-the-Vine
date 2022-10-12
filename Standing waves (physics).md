@@ -8,6 +8,7 @@ Related notes:
 - A standing wave naturally occurs at the [[fundamental frequency (physics)]].
 ### Harmonics
 - When a standing wave occurs at the fundamental frequency, it creates the [[harmonics (physics) | first harmonic]]. 
+
 ### Terminologies
 - **Nodes** are places where there is a complete destructive interference.
 - **Antinodes** are places where the largest displacement is found.
