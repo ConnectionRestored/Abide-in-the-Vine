@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a2b89326d6f2ff38",
+        "id": "cfca75b350bc5204",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-10-14 Concern.md",
+            "file": "Reflection (physics).md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -58,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10-14 Concern.md",
+                "file": "Reflection (physics).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-10-14 Concern.md",
+                "file": "Reflection (physics).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10-14 Concern.md"
+                "file": "Reflection (physics).md"
               }
             }
           },
@@ -138,13 +137,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a2b89326d6f2ff38",
+  "active": "cfca75b350bc5204",
   "lastOpenFiles": [
+    "2022-10-14 Concern.md",
     "visible light (physics).md",
     "Reflection (physics).md",
     "Electromagnetic Waves (physics).md",
     "Waves (as in physics).md",
-    "2022-10-14 Concern.md",
     "MOCS Physics B.md",
     "Reflective writing (language arts).md",
     "7.1 What is simple harmonic motion - What is Hooke's Law.md",
