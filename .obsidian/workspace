@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "6d97e8c31819ecb6",
+        "id": "a2b89326d6f2ff38",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -138,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6d97e8c31819ecb6",
+  "active": "a2b89326d6f2ff38",
   "lastOpenFiles": [
-    "MOCS Physics B.md",
+    "visible light (physics).md",
+    "Reflection (physics).md",
+    "Electromagnetic Waves (physics).md",
+    "Waves (as in physics).md",
     "2022-10-14 Concern.md",
+    "MOCS Physics B.md",
     "Reflective writing (language arts).md",
     "7.1 What is simple harmonic motion - What is Hooke's Law.md",
     "Simple Harmonic Motion.md",
-    "Hooke's Law.md",
-    "7.4 What happens when two waves interact.md",
-    "Waves (as in physics).md",
-    "Wave speed.md",
-    "7.3 Wave properties.md"
+    "Hooke's Law.md"
   ]
 }

@@ -10,6 +10,7 @@ Related notes: [[MOCS Physics B]]
 
 ### Different types of waves
 [[Mechanical Waves]]
+[[Electromagnetic Waves (physics)|Electromagnetic Waves]]
 
 #### How to calculate the speed of waves?
 [[Wave speed]]
