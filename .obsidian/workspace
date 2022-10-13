@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "49d40b423aac57ac",
+        "id": "6d97e8c31819ecb6",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hooke's law",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -58,7 +58,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -137,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "49d40b423aac57ac",
+  "active": "6d97e8c31819ecb6",
   "lastOpenFiles": [
-    "Module 1 Homework.md",
-    "My Conversion (reflective essay).md",
+    "MOCS Physics B.md",
     "2022-10-14 Concern.md",
-    "Growing in Christ/Devotions at Word of Life Academy.md",
     "Reflective writing (language arts).md",
-    "Dailies/2022-10-12.md",
-    "Standing waves (physics).md",
-    "harmonics (physics).md",
-    "Sound waves (physics).md",
-    "Hearing ranges (physics).md"
+    "7.1 What is simple harmonic motion - What is Hooke's Law.md",
+    "Simple Harmonic Motion.md",
+    "Hooke's Law.md",
+    "7.4 What happens when two waves interact.md",
+    "Waves (as in physics).md",
+    "Wave speed.md",
+    "7.3 Wave properties.md"
   ]
 }
