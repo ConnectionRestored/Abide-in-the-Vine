@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "123de31c5f03f20f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c80d5ddcf89b5e7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6b945d50b2f597e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Determining mass while we have force.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70112b13905ee7b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3dd1d198a20489d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8750f27c9691d37d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "701bcdbe989056ae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "hooke's law",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a62f58d7b8d64acd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.5
+  },
+  "right": {
+    "id": "c73277afd5713525",
+    "type": "split",
+    "children": [
+      {
+        "id": "afecfb5fca998761",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9bcb4aa0f039358a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Determining mass while we have force.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ed45c8cc6cb7ea2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Determining mass while we have force.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8f0d4b33bb5b328d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bfe941f71d9ac084",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Determining mass while we have force.md"
+              }
+            }
+          },
+          {
+            "id": "7e53c6560b8b6dc7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "f6b945d50b2f597e",
+  "lastOpenFiles": [
+    "Dailies/2022-10-14.md",
+    "2022-10-14 Concern.md",
+    "Dailies/2022-10-13.md",
+    "Dailies/2022-10-06.md",
+    "Reflection (physics).md",
+    "visible light (physics).md",
+    "Electromagnetic Waves (physics).md",
+    "Waves (as in physics).md",
+    "MOCS Physics B.md",
+    "Reflective writing (language arts).md"
+  ]
+}
