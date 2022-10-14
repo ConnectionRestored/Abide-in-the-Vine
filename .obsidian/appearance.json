@@ -1,8 +1,8 @@
 {
   "theme": "moonstone",
   "translucency": false,
-  "cssTheme": "Atom",
-  "baseFontSize": 22,
+  "cssTheme": "",
+  "baseFontSize": 19,
   "enabledCssSnippets": [
     "beautify-verse-embeds",
     "beautify-verses"

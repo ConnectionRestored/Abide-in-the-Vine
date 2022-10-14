@@ -23,10 +23,11 @@
 - P: The center of the reflecting surface
 - C: "The center of curvature" - the center of the sphere if the mirror were extended in all direction.
 - "Radius of curvature:" the radius of the sphere if the mirror were extended in all direction.
-- F: the "principal focus" - the midpoint of **C** and **P**. 
+- F: the "principimage is an upright, virtual image located 16.7al focus" - the midpoint of **C** and **P**. 
 - A: the "vertex" - the point where the principal axis meets the mirror.
 ### Concave Mirror
 ![[Pasted image 20221014162003.png|400]]
+- Concave mirrors are also called "converging mirrors," for approaching parallel light rays converge at **F.**
 #### Rules of Concave Mirrors
 1. If the incident ray travels parallel to the principal axis, the reflected rays will converge at the principal focus.
 	- ![[Pasted image 20221014162540.png]]
@@ -34,7 +35,11 @@
 	- ![[Pasted image 20221014162809.png]]
 ### Convex Mirror
 ![[Pasted image 20221014165229.png|400]]
+- Convex mirrors are also called "diverging mirrors" for incident rays are reflected "away" from the focal point behind the mirror.
 #### Rules of Convex Mirror
 ![[Pasted image 20221014165423.png]]
 1. If the incident ray travel parallel to the principal axis, it will be reflected "away" from the focal point that is located behind the mirror. In other words, if the reflected ray were to be extended, it will pass through the focal point.
-2. If the incident ray travel toward the focal point, it will be reflected back parallel to the principal axis. In other words, if the incident ray travel toward the focal point, itself (the incident ray) passes through the focal point.converge, thus you will always have a virtual image. The size and location of the image can be found where the extensions of the incident rays converge behind the mirror.
+2. If the incident ray travel toward the focal point, it will be reflected back parallel to the principal axis. In other words, if the incident ray travel toward the focal point, itself (the incident ray) passes through the focal point.
+
+### Problems
+> The image is an upright, virtual image located 16.7 cm behind the mirror. It is 0.33 times the size of the original object.
