@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Determining mass while we have force.md",
+                "file": "Mirrors (physics).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63b2111471ab944c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mirror Equation (physics).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Determining mass while we have force.md",
+                "file": "Mirror Equation (physics).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Determining mass while we have force.md",
+                "file": "Mirror Equation (physics).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Determining mass while we have force.md"
+                "file": "Mirror Equation (physics).md"
               }
             }
           },
@@ -148,17 +162,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f6b945d50b2f597e",
+  "active": "63b2111471ab944c",
   "lastOpenFiles": [
+    "Mirrors (physics).md",
+    "Real Images (physics).md",
+    "virtual image (physics).md",
+    "Reflection (physics).md",
+    "Determining mass while we have force.md",
     "Dailies/2022-10-14.md",
     "2022-10-14 Concern.md",
     "Dailies/2022-10-13.md",
     "Dailies/2022-10-06.md",
-    "Reflection (physics).md",
-    "visible light (physics).md",
-    "Electromagnetic Waves (physics).md",
-    "Waves (as in physics).md",
-    "MOCS Physics B.md",
-    "Reflective writing (language arts).md"
+    "visible light (physics).md"
   ]
 }

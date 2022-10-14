@@ -1,5 +1,3 @@
-# Reflection (physics)
----
 2022-09-26
 Related notes: [[visible light (physics)]] 
 
@@ -23,3 +21,6 @@ Related notes: [[visible light (physics)]]
 - Two types of reflections
 	- **Specular reflection:** when an object is flat and shiny, light reflects in mainly one direction, giving an image that is close to the original one.
 	- **Diffuse reflection:** when an object is rough, light reflects in many directions, giving an image that is distorted according to the shape of the object - if an image at all.
+### The Reflection Law
+![[Pasted image 20221014142755.png]]
+- The angle of incidence equals the angle of reflection.
