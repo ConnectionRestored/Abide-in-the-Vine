@@ -29,7 +29,7 @@ $\rightarrow s_i = −0.8cm$
 $M = \frac{-s_i}{s_o}$
 $\rightarrow M = \frac{-(-0.8cm)}{1cm}$
 $\rightarrow M = \frac{0.8cm}{1cm}$
-$\rightarrow M = 0.8cm$
+$\rightarrow M = 0.8$
 
 **Conclusion**
 - The distance from the mirror to the image is $-0.8cm$, in other words, the image is located $0.8cm$ behind the mirror.
@@ -63,8 +63,8 @@ $\rightarrow s_i \approx −3.53cm$
 $M = \frac{-s_i}{s_o}$
 $\rightarrow M = \frac{-(−3.53cm)}{12cm}$
 $\rightarrow M = \frac{3.53cm}{12cm}$
-$\rightarrow M \approx 0.3cm$
-
+$\rightarrow M \approx 0.3$
+y? What feelings should it convey?
 **Conclusion**
 - The distance from the mirror to the image is (approximately) $-3.53cm$, in other words, the image is located $3.53cm$ behind the mirror.
 - Because $s_i$ is negative, the image is a virtual image.

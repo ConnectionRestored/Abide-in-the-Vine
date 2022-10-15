@@ -9,7 +9,7 @@
 	- **Body:** Vivid representation of the experience while using dialogue, pacing and descriptive detail.
 	- **Conclusion:** Directly or indirectly provide reflections on the experience. Make sure readers understand how I am moved or changed by the event.
 
-### Revising
+## Revising
 #### Why?
 - While writing the first draft, it is easy to include unnecessary information, leaving out important ones, or just not organize ideas clearly. When we revise our work, we look at it through the lens of the reader and make changes in order to improve it.
 - Revising is not editing! It's not about eliminating grammatically errors, its more about adding precise language and sensory details.
@@ -36,3 +36,6 @@
 - **Triple-check it.** Some writers focus on just one proofreading task at a time: They just look for spelling errors, then grammatical errors, then punctuation errors. With this method, you will read your paper multiple times and have more opportunity to see any weaknesses you'd like to remedy.
 - **Ask for help.** Revising and proofreading your work on your own is an important skill, but you can also ask a trusted writing peer to check your work after you've proofread it.
 - **Run spell-check.** Finally, get a little help from technology. Be sure to use the spell-check feature on your computer to review for any spelling errors you may have overlooked.
+
+## Representing
+[[Digital Storytelling]]
