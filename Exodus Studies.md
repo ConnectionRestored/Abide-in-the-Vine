@@ -6,4 +6,6 @@
 [[Exod-16#v18]]
 - He gave the Israelites just as much as they needed - no more, no less. This fact parallels with what Jesus taught us to pray for: "Give us this day our daily bread." ([[Matt-06#v11]])
 [[Exod-18#v11]]
-- Jethro's words show that what God has done has accomplished its purposes and shows that He is greater than all other gods.
+- Jethro's words show that what God has done has accomplished its purposes and shows that He is greater than all other false gods.
+[[Exod-18#v3]]
+- Moses continually get access to God - until the end of the book when he doesn't - but then he get direct access to God again in the following books. Why is it?
