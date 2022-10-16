@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d0243bfa3e51fc6b",
+            "id": "d47edc1ba988b356",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exodus Studies.md",
+                "file": "2022-10-16 Bao Son Sermon.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exodus Studies.md",
+                "file": "2022-10-16 Bao Son Sermon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exodus Studies.md",
+                "file": "2022-10-16 Bao Son Sermon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exodus Studies.md"
+                "file": "2022-10-16 Bao Son Sermon.md"
               }
             }
           },
@@ -149,17 +149,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d0243bfa3e51fc6b",
+  "active": "d47edc1ba988b356",
   "lastOpenFiles": [
-    "Growing in Christ/Bible Studies.md",
-    "Dailies/2022-10-16.md",
-    "Dailies/2022-10-15.md",
-    "Mirrors Assignment.md",
-    "Digital Storytelling.md",
-    "Reflective writing (language arts).md",
-    "Mirror Magnification  Equation (physics).md",
-    "Digital Storytelling Plan Assignment.md",
+    "Scripture (WEB)/47 - 2 Corinthians/2 Cor-12.md",
+    "2022-10-16 Bao Son Sermon.md",
+    "Scripture (WEB)/43 - John/John-15.md",
+    "Scripture (WEB)/43 - John/John-05.md",
+    "Scripture (WEB)/20 - Proverbs/Prov-17.md",
+    "Scripture (WEB)/05 - Deuteronomy/Deut-08.md",
+    "Eccles-1.md",
+    "Sermon Notes.md",
     "Exodus Studies.md",
-    "Mirrors (physics).md"
+    "Scripture (WEB)/46 - 1 Corinthians/1 Cor-09.md"
   ]
 }
