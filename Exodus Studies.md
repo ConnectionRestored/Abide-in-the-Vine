@@ -5,3 +5,5 @@
 - Right after they travel through the wilderness of Shur - where there was no water and the wilderness of Marah - where the water was undrinkable, God led them to Elim - where there were 12 springs of water and 70 palm trees! He provided for their needs in his grace and kindness! 
 [[Exod-16#v18]]
 - He gave the Israelites just as much as they needed - no more, no less. This fact parallels with what Jesus taught us to pray for: "Give us this day our daily bread." ([[Matt-06#v11]])
+[[Exod-18#v11]]
+- Jethro's words show that what God has done has accomplished its purposes and shows that He is greater than all other gods.

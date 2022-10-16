@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "204719c3eb7bd2d6",
+        "id": "971e1c921750a540",
         "type": "tabs",
         "children": [
           {
-            "id": "701e891c1cf6f781",
+            "id": "d0243bfa3e51fc6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reflective writing (language arts).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db43baf7f114a1ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Digital Storytelling.md",
+                "file": "Exodus Studies.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital Storytelling.md",
+                "file": "Exodus Studies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital Storytelling.md",
+                "file": "Exodus Studies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital Storytelling.md"
+                "file": "Exodus Studies.md"
               }
             }
           },
@@ -163,17 +149,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "db43baf7f114a1ba",
+  "active": "d0243bfa3e51fc6b",
   "lastOpenFiles": [
-    "Reflective writing (language arts).md",
-    "Mirrors Assignment.md",
-    "Mirror Magnification  Equation (physics).md",
-    "Digital Storytelling.md",
-    "Dailies/2022-10-15.md",
-    "Digital Storytelling Plan Assignment.md",
     "Growing in Christ/Bible Studies.md",
+    "Dailies/2022-10-16.md",
+    "Dailies/2022-10-15.md",
+    "Mirrors Assignment.md",
+    "Digital Storytelling.md",
+    "Reflective writing (language arts).md",
+    "Mirror Magnification  Equation (physics).md",
+    "Digital Storytelling Plan Assignment.md",
     "Exodus Studies.md",
-    "Mirrors (physics).md",
-    "Mirror Equation (physics).md"
+    "Mirrors (physics).md"
   ]
 }

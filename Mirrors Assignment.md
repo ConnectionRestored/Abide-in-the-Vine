@@ -161,3 +161,7 @@ $\rightarrow M = 2$
 - The distance from the mirror to the image is $-3cm$, in other words, the image is located $3cm$ behind the mirror.
 - Because $s_i$ is negative, the image is a virtual image.
 - Because $M$ is positive, the image is upright.
+
+### 2. Choose three of the above mirror problems and draw a scale diagram for each one that shows geometrically how the distance to the image is found. (5 points each)
+
+![[Pasted image 20221015172945.png]]
