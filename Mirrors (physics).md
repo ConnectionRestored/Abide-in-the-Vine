@@ -23,7 +23,7 @@
 - P: The center of the reflecting surface
 - C: "The center of curvature" - the center of the sphere if the mirror were extended in all direction.
 - "Radius of curvature:" the radius of the sphere if the mirror were extended in all direction.
-- F: the "principimage is an upright, virtual image located 16.7al focus" - the midpoint of **C** and **P**. 
+- F: the midpoint of **C** and **P**. 
 - A: the "vertex" - the point where the principal axis meets the mirror.
 ### Concave Mirror
 ![[Pasted image 20221014162003.png|400]]

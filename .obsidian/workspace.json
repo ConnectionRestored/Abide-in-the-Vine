@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "971e1c921750a540",
+        "id": "f64c0fc0963865e0",
         "type": "tabs",
         "children": [
           {
-            "id": "d47edc1ba988b356",
+            "id": "52531ce84eb49cb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-10-16 Bao Son Sermon.md",
+                "file": "Mirror Equation (physics).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,38 +21,12 @@
             }
           },
           {
-            "id": "8df364d7fcce42cc",
+            "id": "c776d4a26f95c2ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exodus Studies.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b029aac8fc78aa83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Growing in Christ/Prayers MOC.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "680746e6f33f5491",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Should we keep praying for the same thing?.md",
+                "file": "Mirror Magnification  Equation (physics).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Should we keep praying for the same thing?.md",
+                "file": "Mirror Magnification  Equation (physics).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Should we keep praying for the same thing?.md",
+                "file": "Mirror Magnification  Equation (physics).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Should we keep praying for the same thing?.md"
+                "file": "Mirror Magnification  Equation (physics).md"
               }
             }
           },
@@ -189,17 +163,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "680746e6f33f5491",
+  "active": "c776d4a26f95c2ee",
   "lastOpenFiles": [
-    "Dailies/2022-10-16.md",
-    "God's kindness.md",
-    "God's love.md",
-    "God's grace.md",
-    "Should we keep praying for the same thing?.md",
+    "Digital Storytelling Plan Assignment.md",
+    "Files/Joshua Trung - LO8_9_DigitalStorytellingPlan.pdf",
+    "Mirrors (physics).md",
+    "Mirror Equation (physics).md",
+    "Mirror Magnification  Equation (physics).md",
     "2022-10-16 Bao Son Sermon.md",
-    "Growing in Christ/Prayers MOC.md",
-    "Scripture (WEB)/42 - Luke/Luke-11.md",
     "Exodus Studies.md",
-    "Scripture (WEB)/47 - 2 Corinthians/2 Cor-12.md"
+    "Growing in Christ/Prayers MOC.md",
+    "Scripture (WEB)/51 - Colossians/Col-02.md",
+    "Exod2022-10-17-23.md"
   ]
 }
