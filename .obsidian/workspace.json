@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Growing in Christ/Prayers MOC.md",
+                "file": "Should we keep praying for the same thing?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Growing in Christ/Prayers MOC.md",
+                "file": "Should we keep praying for the same thing?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Growing in Christ/Prayers MOC.md"
+                "file": "Should we keep praying for the same thing?.md"
               }
             }
           },
@@ -189,17 +189,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b029aac8fc78aa83",
+  "active": "680746e6f33f5491",
   "lastOpenFiles": [
-    "Should we keep praying for the same thing?.md",
-    "Scripture (WEB)/42 - Luke/Luke-11.md",
-    "Growing in Christ/Prayers MOC.md",
     "Dailies/2022-10-16.md",
-    "Exodus Studies.md",
+    "God's kindness.md",
+    "God's love.md",
+    "God's grace.md",
+    "Should we keep praying for the same thing?.md",
     "2022-10-16 Bao Son Sermon.md",
-    "Scripture (WEB)/47 - 2 Corinthians/2 Cor-12.md",
-    "Scripture (WEB)/43 - John/John-15.md",
-    "Scripture (WEB)/43 - John/John-05.md",
-    "Scripture (WEB)/20 - Proverbs/Prov-17.md"
+    "Growing in Christ/Prayers MOC.md",
+    "Scripture (WEB)/42 - Luke/Luke-11.md",
+    "Exodus Studies.md",
+    "Scripture (WEB)/47 - 2 Corinthians/2 Cor-12.md"
   ]
 }
