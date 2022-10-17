@@ -2,7 +2,7 @@ $$M = \frac{h_i}{h_o} = \frac{-s_i}{s_o}$$
 With:
 - $s_o$ = object distance
 - $s_i$ = image distance
-- $h_o$ = object hei1fWHO9Y1K1tLght
+- $h_o$ = object height
 - $h_i$ = image height
 
 Results:
