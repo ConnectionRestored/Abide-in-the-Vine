@@ -12,4 +12,4 @@ Related: [[Reflective writing (language arts)#Representing]]
 - **6. Level of Detail:** A writer _could_ read the entire version of a story aloud, using video, images, and sound to support its message. However, if the story includes many small, less significant details for reasons other than advancing the plot (such as setting the mood), a writer may choose words and multimedia more selectively. A good approach is to ask which details are essential to tell the story effectively.
 - **7. Pacing:** Most stories include elements that can fly by quickly, and others that require more time to sink in. Which parts of a writer's story should she the spend most time on? Which should get the most attention from viewers? Which should get the least? Answering these types of questions can help a writer decide how long to leave one image on screen before switching to the next.
 
-[[Digital Storytel![Digital]ling Plan Assignment]]
+[[Digital Storytelling Plan Assignment]]

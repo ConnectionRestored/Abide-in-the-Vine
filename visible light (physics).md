@@ -1,10 +1,10 @@
-# visible light (physics)
 Related: [[Electromagnetic Waves (physics)]]
 
 ## #Definition 
 ![[Pasted image 20221013143845.png]]
 - *Visible light* or the *visible spectrum* is a small portion of the electromagnetic spectrum that our eyes can see.
 
+# Colors of Light
 ## Primary Colors of Light
 - **Red, Green and Blue** are three primary colors of light.
 - Primary colors can be used to create **any** other color in the visible spectrum.
@@ -62,5 +62,11 @@ Related: [[Electromagnetic Waves (physics)]]
 - Filters are transparent objects that only allow certain wavelengths to pass through them while absorbing the other. More specifically, a filter absorbs its complementary color.
 	- Yellow's complementary color is Blue, that means when white light passes through a yellow filter, the filter will absorbs blue, letting only red and green light pass through. And red light when combined with green light give yellow!
 
-## Light Reflections
+
+# Light Reflections
 [[Reflection (physics)#Light|Reflections]]
+
+# Light Refraction
+[[refraction (physics)]]
+# Speed of Light
+- Because light are waves, [[Wave speed]] equation to calculate its speed.
