@@ -1,0 +1,1 @@
+- God is King, he reigns forever! And in His grace, we sinners, get to join the banquet! We get to be the citizens of his Kingdom! WOW!
