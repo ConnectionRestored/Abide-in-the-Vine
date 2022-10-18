@@ -21,5 +21,68 @@
 2.  A ray that travels toward the focal point on the other side of the lens will refract so that the ray travels parallel to the principal axis.
 3.  A ray that passes through the center of the lens will continue in that same direction.
 
+# Lens Equations
+
+> [!warning] Working with Lens
+> While working with lens, the image distance works opposite the way it does with mirrors. When it is negative, the image is created in front of the lens. When it is positive, it is created behind the lens.
+
+## Lens Equation
+> [!warning] Working with Diverging Lens
+> The focal length of diverging lens are always **negative.**
+
+
+$$\frac{1}{f} = \frac{1}{s_o} + \frac{1}{s_i}$$
+With:
+- $s_o$ = object distance
+- $s_i$ = image distance
+- $f$ = focal length
+
+Results:
+| Variable | Positive (+) | Negative (-)  |
+|:--------:|:------------:|:-------------:|
+|   $f$    |   converging    |    diverging     |
+|  $s_i$   |  real image  | virtual image |
+
+## Lens Magnification Equation
+$$M = \frac{h_i}{h_o} = \frac{-s_i}{s_o}$$
+With:
+- $s_o$ = object distance
+- $s_i$ = image distance
+- $h_o$ = object height
+- $h_i$ = image height
+
+Results:
+|       M       |     Type of Image     |
+|:-------------:|:---------------------:|
+|  Positive (+) |        upright        |
+|  Negative (-) |        inverted       |
+| 0 < \|M\| < 1 | smaller than original |
+|   \|M\| > 1   |  larger than original |
+
+
+
+# Known image properties
+## For converging lens
+### **Object distance:** between $f$ and $2f$. 
+![[Pasted image 20221018165415.png|350]]
+**Image:**
+- Inverted
+- Larger
+- Real
+### **Object distance:** outside $2f$. 
+![[Pasted image 20221018165439.png|350]]
+**Image:**
+- Inverted
+- Smaller
+- Real
+### **Object distance:** inside $f$.
+![[Pasted image 20221018165531.png|350]]
+**Image:**
+- Upright
+- Larger
+- Virtual
+
+## For diverging lens
+![[Pasted image 20221018165747.png|350]]
 > [!tip] The image of Diverging Lens
-> C
+> All diverging lenses produce the same type of image: virtual, upright, and smaller. The image is also always located on the same side of the lens as the object.

@@ -21,6 +21,32 @@
             }
           },
           {
+            "id": "7963a270a3cfc011",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dailies/2022-10-18.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3365998d2e9acc13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Physics Problem.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a3ef734a6d14e378",
             "type": "leaf",
             "state": {
@@ -45,8 +71,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "533055c5dccda2fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lenses Assignment.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,8 +132,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -113,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lens (physics).md",
+                "file": "Dailies/2022-10-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lens (physics).md",
+                "file": "Dailies/2022-10-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lens (physics).md"
+                "file": "Dailies/2022-10-18.md"
               }
             }
           },
@@ -175,17 +214,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "44497360380a2921",
+  "active": "7963a270a3cfc011",
   "lastOpenFiles": [
-    "Mirrors (physics).md",
-    "lens (physics).md",
-    "Electromagnetic Waves (physics).md",
-    "refraction (physics).md",
-    "Snell's Law (physics).md",
+    "Lenses Assignment.md",
     "Wave speed.md",
-    "visible light (physics).md",
-    "unit conversions.md",
-    "The Restorative Force.md",
-    "Sound waves (physics).md"
+    "lens (physics).md",
+    "Dailies/2022-10-18.md",
+    "Templates/Physics Problem.md",
+    "Snell's Law (physics).md",
+    "Templates/Physics Problem (without algebra).md",
+    "Mirrors Assignment.md",
+    "Mirror Magnification  Equation (physics).md",
+    "Mirror Equation (physics).md"
   ]
 }
