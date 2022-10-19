@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "bcd86c309d6b3bb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thermal Expansion (physics).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b203ab3edb0f97c2",
             "type": "leaf",
             "state": {
@@ -34,12 +47,25 @@
             }
           },
           {
-            "id": "bcd86c309d6b3bb6",
+            "id": "114fa2e7f43332eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thermal Expansion (physics).md",
+                "file": "baptism in the Holy Spirit.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b554110c58a22630",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Heat (physics).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermodynamic (physics).md",
+                "file": "baptism in the Holy Spirit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thermodynamic (physics).md",
+                "file": "baptism in the Holy Spirit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thermodynamic (physics).md"
+                "file": "baptism in the Holy Spirit.md"
               }
             }
           },
@@ -176,17 +202,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b203ab3edb0f97c2",
+  "active": "114fa2e7f43332eb",
   "lastOpenFiles": [
-    "Thermal Expansion (physics).md",
+    "Thermal Properties of Materials.md",
+    "God's design.md",
     "Thermodynamic (physics).md",
+    "Heat (physics).md",
+    "Thermal conductivity.md",
+    "Thermal insulation.md",
+    "Dailies/2022-10-19.md",
+    "Thermal Expansion (physics).md",
     "Thermal Equilibrium (physics).md",
-    "Book Shelf.md",
-    "refraction (physics).md",
-    "Snell's Law (physics).md",
-    "Temperature (physics).md",
-    "lens (physics).md",
-    "Lenses Assignment.md",
-    "Dailies/2022-10-19.md"
+    "Book Shelf.md"
   ]
 }

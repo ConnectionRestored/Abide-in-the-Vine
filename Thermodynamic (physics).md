@@ -4,5 +4,6 @@ Related: [[MOCS Physics B]]
 [[Thermal Equilibrium (physics)]]
 [[Thermal Expansion (physics)]]
 
-# Laws
-## Zeroth Law of Thermodynamics
+# Basics
+[[Heat (physics)]]
+[[Thermal Properties of Materials]]

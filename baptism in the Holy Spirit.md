@@ -1,0 +1,3 @@
+_"And I will ask the Father, and he will give you another advocate to help you and be with you forever— the Spirit of truth. The world cannot accept him, because it neither sees him nor knows him. But you know him, for he lives with you and will be in you.__I will not leave you as orphans; I will come to you."_ John 14:16-18 (NIV)
+
+- My life was completely changed by Jesus! But it is possible to live changed lives (he lives with you) and not be baptized in the Holy Spirit (and **will** [future tense] be in you.)
