@@ -1,7 +1,6 @@
 # What?
-- A **lens** is any object that are shaped in a way that [[refraction (physics)|refract]] light so that an image is formed.
+- A **lens** is any transparent object that are shaped in a way that [[refraction (physics)|refract]] light so that an image is formed.
 - It's quite like a [[Mirrors (physics)|mirror]].
-
 # Types of Lens
 ## Converging Lens
 ![[Pasted image 20221018163907.png|500]]
@@ -60,9 +59,8 @@ Results:
 |   \|M\| > 1   |  larger than original |
 
 
-
 # Known image properties
-## For converging lens
+## For converging (convex) lens
 ### **Object distance:** between $f$ and $2f$. 
 ![[Pasted image 20221018165415.png|350]]
 **Image:**

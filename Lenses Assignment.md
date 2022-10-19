@@ -1,4 +1,5 @@
-### Find the distance to the image in the following lens problems and state whether the image is virtual or real AND whether it is upright or inverted. (4 points each)
+Name: Joshua Trung
+### 1. Find the distance to the image in the following lens problems and state whether the image is virtual or real AND whether it is upright or inverted. (4 points each)
 
 #### a. An object is placed 40. mm away from a diverging lens with a focal length of 10. cm.
 **Given:**
@@ -145,3 +146,8 @@ $\rightarrow M \approx 0.33$
 **Conclusion:**
 - Because $s_i$ is negative, the image is virtual.
 - Because $M$ is positive, the image is upright.
+
+### 2. Choose three of the above lens problems and draw a scale diagram for each one that shows geometrically how the distance to the image is found. (5 points each)
+![[Pasted image 20221019094056.png]]
+
+
