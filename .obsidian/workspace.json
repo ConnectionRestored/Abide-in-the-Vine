@@ -71,9 +71,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9d568eed1d318eb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dailies/2022-10-19.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -140,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "baptism in the Holy Spirit.md",
+                "file": "Dailies/2022-10-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "baptism in the Holy Spirit.md",
+                "file": "Dailies/2022-10-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "baptism in the Holy Spirit.md"
+                "file": "Dailies/2022-10-19.md"
               }
             }
           },
@@ -202,17 +215,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "114fa2e7f43332eb",
+  "active": "9d568eed1d318eb1",
   "lastOpenFiles": [
+    "Heat (physics).md",
+    "Dailies/2022-10-19.md",
+    "baptism in the Holy Spirit.md",
     "Thermal Properties of Materials.md",
     "God's design.md",
     "Thermodynamic (physics).md",
-    "Heat (physics).md",
     "Thermal conductivity.md",
     "Thermal insulation.md",
-    "Dailies/2022-10-19.md",
     "Thermal Expansion (physics).md",
-    "Thermal Equilibrium (physics).md",
-    "Book Shelf.md"
+    "Thermal Equilibrium (physics).md"
   ]
 }
