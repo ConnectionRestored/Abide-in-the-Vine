@@ -31,7 +31,12 @@ With:
 ![[Pasted image 20221018162343.png|500]]
 - When light travels from a higher index of refraction to a lower index of refraction, it is possible that all light rays will be reflected back into the original medium when the angle of refraction reaches $90^\circ$. 
 	- In this case, the angle of incidence is called the **critical angle ($\theta_c$).**
-	- Plugging $\theta_2 = 90^\circ = 1$ into [[Snell's Law (physics)]], we get:
+	- Plugging $\theta_2 = 90^\circ = 1$ into [[Snell's Law (physics)]], we get:￼
+0°F
+￼
+100 K
+￼
+-10°C
 		- $$n_1*sin\theta_c = n_2*sin90 \rightarrow sin\theta_c = \frac{n_2}{n_1}$$
 
 [[Snell's Law (physics)]]

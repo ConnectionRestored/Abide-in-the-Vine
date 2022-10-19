@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d54e1d2f35a30cbf",
+        "id": "54756e20045552df",
         "type": "tabs",
         "children": [
           {
-            "id": "fb36515fda3d0224",
+            "id": "d6a0b51785efebf4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "refraction (physics).md",
+                "file": "Thermal Equilibrium (physics).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "2ba627ce15f69247",
+            "id": "b203ab3edb0f97c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snell's Law (physics).md",
+                "file": "Thermodynamic (physics).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "6c786e5ea76eeaf4",
+            "id": "bcd86c309d6b3bb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temperature (physics).md",
+                "file": "Thermal Expansion (physics).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Temperature (physics).md",
+                "file": "Thermodynamic (physics).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Temperature (physics).md",
+                "file": "Thermodynamic (physics).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temperature (physics).md"
+                "file": "Thermodynamic (physics).md"
               }
             }
           },
@@ -176,17 +176,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "6c786e5ea76eeaf4",
+  "active": "b203ab3edb0f97c2",
   "lastOpenFiles": [
-    "lens (physics).md",
+    "Thermal Expansion (physics).md",
+    "Thermodynamic (physics).md",
+    "Thermal Equilibrium (physics).md",
+    "Book Shelf.md",
     "refraction (physics).md",
     "Snell's Law (physics).md",
+    "Temperature (physics).md",
+    "lens (physics).md",
     "Lenses Assignment.md",
-    "Dailies/2022-10-19.md",
-    "Exodus Studies.md",
-    "Jesus our Sacrificial Ram.md",
-    "Dailies/2022-10-18.md",
-    "Wave speed.md",
-    "Templates/Physics Problem.md"
+    "Dailies/2022-10-19.md"
   ]
 }
