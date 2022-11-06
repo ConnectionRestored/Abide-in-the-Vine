@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "54756e20045552df",
+        "id": "9fff74635b37c3ae",
         "type": "tabs",
         "children": [
           {
-            "id": "d6a0b51785efebf4",
+            "id": "d1f6aeb55385a87e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thermal Equilibrium (physics).md",
+                "file": "Growing in Christ/Devotions at Word of Life Academy.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,64 +21,12 @@
             }
           },
           {
-            "id": "bcd86c309d6b3bb6",
+            "id": "d6a43d4a5a590ef7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thermal Expansion (physics).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b203ab3edb0f97c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thermodynamic (physics).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "114fa2e7f43332eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "baptism in the Holy Spirit.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b554110c58a22630",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Heat (physics).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d568eed1d318eb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dailies/2022-10-19.md",
+                "file": "2022-10-21 Confidence.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dailies/2022-10-19.md",
+                "file": "2022-10-21 Confidence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dailies/2022-10-19.md",
+                "file": "2022-10-21 Confidence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dailies/2022-10-19.md"
+                "file": "2022-10-21 Confidence.md"
               }
             }
           },
@@ -215,17 +163,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "9d568eed1d318eb1",
+  "active": "d6a43d4a5a590ef7",
   "lastOpenFiles": [
-    "Heat (physics).md",
+    "Growing in Christ/Devotions at Word of Life Academy.md",
     "Dailies/2022-10-19.md",
+    "Heat (physics).md",
     "baptism in the Holy Spirit.md",
+    "Thermodynamic (physics).md",
+    "Thermal Expansion (physics).md",
+    "Thermal Equilibrium (physics).md",
     "Thermal Properties of Materials.md",
     "God's design.md",
-    "Thermodynamic (physics).md",
-    "Thermal conductivity.md",
-    "Thermal insulation.md",
-    "Thermal Expansion (physics).md",
-    "Thermal Equilibrium (physics).md"
+    "Thermal conductivity.md"
   ]
 }
